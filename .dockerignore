@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.claude
+*.pdf
+*.zip
+firebase-public
+firebase.json
+.firebaserc
+._*
+.DS_Store
